@@ -14,7 +14,6 @@ internet access schedule control<br>
 wifi schedule<br>
 dns https proxy<br>
 zerotier<br>
-tailscale<br>
 eqos<br>
 turbo acc center<br>
 
