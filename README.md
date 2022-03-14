@@ -9,7 +9,7 @@ web admin<br>
 led configuration<br>
 scheduled reboot<br>
 argonne config<br>
-pass wall<br>
+passwall2<br>
 internet access schedule control<br>
 wifi schedule<br>
 dns https proxy<br>
