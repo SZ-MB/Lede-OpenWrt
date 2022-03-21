@@ -2,7 +2,7 @@
 <h1>Self-Build OpenWrt for Routers CR660x</h1>
 
 <h3>Description</h3>
-Kernel Version: 5.10.103<br>
+Kernel Version: 5.4<br>
 Firmware Version: Snapshot<br>
 release ram<br>
 web admin<br>
