@@ -19,7 +19,7 @@ turbo acc center<br>
 
 <h1>Self-Build OpenWrt for Routers Xunlei TimeCloud v1</h1>
 <h3>Description</h3>
-Kernel Version: 5.10.103<br>
+Kernel Version: 5.4<br>
 Firmware Version: Snapshot<br>
 scheduled reboot<br>
 argonne config<br>
@@ -31,7 +31,7 @@ turbo acc center<br>
 
 <h1>Self-Build OpenWrt for Routers HC5661</h1>
 <h3>Description</h3>
-Kernel Version: 5.10.103<br>
+Kernel Version: 5.4<br>
 Firmware Version: Snapshot<br>
 scheduled reboot<br>
 pass wall<br>
